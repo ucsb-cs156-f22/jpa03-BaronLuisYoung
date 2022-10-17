@@ -4,8 +4,8 @@
 [![codecov](https://codecov.io/gh/ucsb-cs156-f22/jpa03-BaronLuisYoung/branch/main/graph/badge.svg?token=DJ9UYFMFVA)](https://codecov.io/gh/ucsb-cs156-f22/jpa03-BaronLuisYoung)
 
 Storybook is here:
-* Production: <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs/>
-* QA:  <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs-qa/>
+* Production: <https://ucsb-cs156-f22.github.io/jpa03-docs/>
+* QA:  <https://ucsb-cs156-f22.github.io/jpa03-docs-qa/>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
